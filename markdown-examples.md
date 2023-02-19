@@ -36,4 +36,8 @@ ordered list:
 1. do not need to number lines can use 1 for all on list.
 
 
+| Column 1 | column 2 | Column 3|
+|----------|----------|---------|
+| data 1   | data 1   | data 1  |
+| data 2   | data 2   | data 2  |
 
