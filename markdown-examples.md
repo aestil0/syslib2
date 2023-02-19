@@ -1,8 +1,8 @@
-#Heading 1
+# Heading 1
 
-##Heading 2
+## Heading 2
 
-######Heading 6
+###### Heading 6
 
 This is **bold**
 
@@ -10,18 +10,18 @@ this is *italics*
 
 This is a block quote
 
->this is the first line
->this is the second line
->third line
->fourth line
+> this is the first line  
+> this is the second line  
+> third line  
+> fourth line  
 
-I am using 'git'.
+I am using `git`.
 
 This is a code block:
-'''
+```
 git add.
 git status.
-'''
+```
 
 to insert links to [uky] (https://www.uky.edu)
 
