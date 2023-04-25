@@ -1,0 +1,5 @@
+Opac library admin
+difficult to get to work - need to make sure that all words are included in the vm instance.
+Definitely need to be able to remember the password.
+
+minor issue with missing an x in the password - change password from the x's as these are defaults.
