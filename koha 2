@@ -1,0 +1,10 @@
+koha install
+initially spent 5 hours, but could not get the page to work. tried to uninstall, but cannot uninstall, learned that along with the omeka install since 
+catching up with both of them. 
+major issue
+site not working - reverts to https
+ learned in the chat with SB that you can not uninstall how i was trying to do it. also, stop using sudo in the root!!!
+chat is amazing for help and made me not feel so alone while trying to work on this, since i was alone while doing it.
+went back through everything again, and looked at comment from SB about the listen 80. need to add listen 8080 instead of changing listen 80 to 8080
+
+feeling very stupid about this and seriously worried about linking everything together!
